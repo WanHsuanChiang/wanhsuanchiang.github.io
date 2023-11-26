@@ -3,20 +3,33 @@ languageCode = "en-us"
 title = "Angela Chiang's Portfolio"
 theme = "PaperMod"
 
-[param]
-env = "production"
-title = "Angela Chiang's Portfolio"
-description = "Know more about Angela"
-DateFormat = "January 2, 2006"
 
-  [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Know more about Angela"
+
+[params]
+  [params.profileMode]
+    enabled = true
+    title = "Angela Chiang's Portfolio"
+    subtitle = "Know more about Angela"
+    imageUrl = "/imgs/notion-avatar.svg" # optional
+    imageTitle = "My Avatar" # optional
+    imageWidth = 150 # custom size
+    imageHeight = 150 # custom size
+    [[params.profileMode.buttons]]
+      name = "Portfolio"
+      url = "/portfolio"
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/blog"
+    
 
   [[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/wanhsuanchiang/"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/wanhsuanchiang/"
 
   [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/WanHsuanChiang"
+    name = "github"
+    url = "https://github.com/WanHsuanChiang"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:ezgtt324@gmail.com"
