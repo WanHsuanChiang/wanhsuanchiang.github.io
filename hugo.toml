@@ -1,4 +1,4 @@
-baseURL = "https://github.com/WanHsuanChiang/wanhsuanchiang.github.io/"
+baseURL = "https://wanhsuanchiang.github.io/"
 languageCode = "en-us"
 title = "Angela Chiang's Portfolio"
 theme = "PaperMod"
