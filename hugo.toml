@@ -1,4 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wanhsuanchiang.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Angela Chiang's Portfolio'
 theme = "PaperMod"
+
+[param]
+env = 'production'
+title = 'Angela Chiang's Portfolio'
+descrption = 'Know more about Angela'
+DateFormat = "January 2, 2006"
