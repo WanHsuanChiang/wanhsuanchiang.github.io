@@ -7,10 +7,10 @@ In this pivotal project for KKday, I spearheaded the development of an innovativ
 
 ---
 
-**Roles:** Project Owner, Website Product Owner, Tracking Planner  
-**Year:** 2019  
-**Company:** KKday  
-**Tools Used:** Mixpanel, Airtable
+- **Roles:** Project Owner, Website Product Owner, Tracking Planner  
+- **Year:** 2019  
+- **Company:** KKday  
+- **Tools Used:** Mixpanel, Airtable
 
 ---
 

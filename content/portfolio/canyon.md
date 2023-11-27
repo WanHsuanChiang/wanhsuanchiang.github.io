@@ -1,5 +1,5 @@
 +++
-title = 'Canyon Accident Cause Analysis'
+title = 'Canyon Accident Cause Analysis Visualization'
 date = 2023-11-26T23:02:41+01:00
 draft = false
 +++
