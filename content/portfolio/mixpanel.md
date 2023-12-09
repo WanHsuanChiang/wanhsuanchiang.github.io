@@ -11,7 +11,7 @@ In this pivotal project for KKday, I spearheaded the development of an innovativ
 - **Year:** 2019  
 - **Company:** KKday  
 - **Tools Used:** Mixpanel, Airtable
-
+- **Reference:** [Case Study Report on Mixpanel Website](https://mixpanel.com/customers/kkday-case-study)
 ---
 
 ## Objectives
