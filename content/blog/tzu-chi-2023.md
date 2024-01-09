@@ -4,7 +4,7 @@ date = 2024-01-09T16:48:04+01:00
 draft = false
 tags = ['Social Involvement']
 [cover]
-image = 'https://tw.tzuchi.org/community/images/community/2D7244A0AD0111EE8715A2155D080D85_0.jpg'
+image = '/imgs/posts/lublin-shelter.jpg'
 +++
 
 My involvement with Tzu Chi, an organization renowned for its humanitarian work, began as a family practice, focusing on educational donations. This perspective shifted as I learned about Tzu Chi's extensive global outreach, particularly in supporting people in need, regardless of religious affiliations.
