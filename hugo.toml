@@ -33,3 +33,6 @@ theme = "PaperMod"
   [[params.socialIcons]]
     name = "email"
     url = "mailto:ezgtt324@gmail.com"
+
+  [params.cover]
+    hiddenInList = true
