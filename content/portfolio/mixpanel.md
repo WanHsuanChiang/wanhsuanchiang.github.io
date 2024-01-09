@@ -2,6 +2,7 @@
 title = 'Mixpanel Cross-platform Tracking Implementation'
 date = 2023-11-26T19:55:52+01:00
 draft = false
+tags = ['Mixpanel','Project Management','Event Tracking']
 +++
 In this pivotal project for KKday, I spearheaded the development of an innovative event tracking system using Mixpanel, focusing on a cross-platform approach. The initiative was not only about integrating systems but also about uncovering insights into cross-device user behavior to drive strategic decisions.
 

@@ -2,6 +2,7 @@
 title = 'Beyond Guilt: Transforming Perspectives on AI in Our Work'
 date = 2023-12-09T22:47:41+01:00
 draft = false
+tags = ['AI','ChatGPT']
 +++
 
 During recent discussions with friends about adopting ChatGPT, a striking theme emerged: a sense of guilt and the feeling that using AI was somehow "not my contribution." This sentiment opened up a conversation about the ethical and psychological aspects of integrating AI into our work.

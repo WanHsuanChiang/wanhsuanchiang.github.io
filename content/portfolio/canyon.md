@@ -2,6 +2,7 @@
 title = 'Canyon Accident Cause Analysis Visualization'
 date = 2023-11-26T23:02:41+01:00
 draft = false
+tags = ['Data Visualization','d3.js']
 +++
 "Canyon Accident Cause Analysis" is a comprehensive data visualization project designed to present canyon accidents data interactively. The project encompasses the entire process from data collection and cleaning to design and implementation of visualization.
 
