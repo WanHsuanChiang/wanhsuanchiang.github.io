@@ -23,7 +23,8 @@ Reflecting on this journey, I realize that supporting those in need knows no rel
 
 ---
 
-- [Opole Charity Event Records](https://tw.tzuchi.org/community/index.php?option=com_content&view=article&id=120704:6C51EBE0AD6E11EE8715A2155D080D85&catid=81:europe&Itemid=198)
+- [Opole Charity Event Report](https://tw.tzuchi.org/community/index.php?option=com_content&view=article&id=120704:6C51EBE0AD6E11EE8715A2155D080D85&catid=81:europe&Itemid=198)
+- [Opole Charity Event Broadcast](https://youtu.be/5Z7M1T-xwYs?si=LX1EOTRsGg7xTwbd)
 - [Opole Charity Event Facebook Post from Mayor of Opole](https://www.facebook.com/PrezydentOpola/posts/pfbid02U8M6ewL63f1xfDkqWDw7ZNEKfkEJuG3dSt8zBDpUCmLjhb4NNUJExa1nygKK4TK3l?locale=pl_PL)
 - [Children's Shelter Charity Event in Lublin](https://tw.tzuchi.org/community/index.php?option=com_content&view=article&id=120695:2D7244A0AD0111EE8715A2155D080D85&catid=81:europe&Itemid=198)
 - [Chirstmas Eve Charity Lunch with Caritas in Lublin](https://tw.tzuchi.org/community/index.php?option=com_content&view=article&id=120821:062B8F40B2CA11EE8715A2155D080D85&catid=81:europe&Itemid=198)
